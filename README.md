@@ -3,6 +3,10 @@
 ## Problem Statement
 Analyze the insurance policies, premium payments, customer demographics, and settlement patterns for Shield Insurance to identify key insights and trends that can improve revenue, customer acquisition, and settlement strategies.
 
+# Power BI Dashboard Link
+
+[View the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjA0MTllOTAtYWUxZS00MTJhLWFlNjctZjA5MDkwNjgxMzJjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 ## Tech Stack
 - **Power BI**
 - **Excel**
